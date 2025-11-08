@@ -1,0 +1,7 @@
+Country,Banking_Regulation,Data_Protection_Law,Cybersecurity_Framework,Compliance_Maturity,Penalties_Max_USD
+Senegal,BCEAO_Directive,Law_2008-12,Developing,Medium,50000
+Cote_Ivoire,BCEAO_Directive,Law_2013-450,Basic,Low,30000
+Cameroon,CEMAC_Regulation,Law_2010-012,Basic,Low,25000
+Morocco,Bank_Al_Maghrib_Circulars,Law_09-08,Advanced,High,500000
+Tunisia,BCT_Circulars,Organic_Law_2004-63,Advanced,High,120000
+Burkina_Faso,BCEAO_Directive,Law_2004-012,Developing,Medium,20000

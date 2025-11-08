@@ -1,0 +1,8 @@
+Company,Country,Services,Clients_Estimate,Market_Share_Pct,Pricing_Tier
+Orange_Cyberdefense,Regional,Full_MSSP,150,35,Premium
+SIS_Maroc,Morocco,SOC_SIEM,45,15,Mid
+Excellium_Services,Regional,Consulting_SOC,30,8,Premium
+Tunisie_Telecom_Security,Tunisia,Basic_Monitoring,60,12,Budget
+SecureIvoire,Cote_Ivoire,Vulnerability_Management,25,5,Mid
+CyberSafe_Senegal,Senegal,Awareness_Training,40,7,Budget
+Local_Providers,Regional,Basic_Services,200,18,Budget
